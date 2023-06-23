@@ -73,6 +73,15 @@ button:hover {
   grid-row: span 3;
 }
 
+.footer {
+  margin-bottom: 0;
+  font-size: 10px;
+  text-align: center;
+}
+#hat {
+  color: red;
+}
+
 @media screen and (max-width: 768px) {
   body {
     padding: 10px;
