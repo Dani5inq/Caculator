@@ -77,8 +77,13 @@ button:hover {
   margin-bottom: 0;
   font-size: 10px;
   text-align: center;
+}
+
+footer a {
+  text-decoration: none;
   color: white;
 }
+
 #hat {
   color: red;
 }
